@@ -12,7 +12,6 @@ class SetBlur {
 	@FXML
 	public void initialize() {
 		forestview.setEffect(new GaussianBlur(10));
-		//master.
 	}
 }
 
