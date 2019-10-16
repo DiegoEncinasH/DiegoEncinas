@@ -14,7 +14,9 @@ public class Main extends Application {
 		try {
 			FXMLLoader loader = new FXMLLoader(getClass().getResource("Vista.fxml"));
 			//BorderPane root = new BorderPane();
+			loader.setController(new SetBlur());
 			AnchorPane root = (AnchorPane) loader.load();
+			
 			Scene scene = new Scene(root,400,400);
 			//scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
 			primaryStage.setScene(scene);
