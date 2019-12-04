@@ -1,2 +1,2 @@
 # DiegoEncinas
-![](https://github.com/DiegoEncinasH/Wizard/blob/master/DiegoEncinas/act1.png)
+![](https://github.com/DiegoEncinasH/DiegoEncinas/blob/master/FirstJFX/act1.png)
